@@ -1,0 +1,2 @@
+# embeded_system_class
+本科期间嵌入式课程及其他嵌入式相关的一些杂物
