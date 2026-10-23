@@ -1,0 +1,17 @@
+# IDE 配置
+.metadata/
+.settings/
+.cproject
+.project
+.mxproject
+
+# 编译生成文件
+Debug/
+Release/
+test/
+
+# 其他
+*.o
+*.d
+*.elf
+*.map

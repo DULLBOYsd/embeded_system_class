@@ -1,4 +1,0 @@
-../Lib/Src/user_rtc.c:13:16:RTC_CalculateWeekDay	24	static
-../Lib/Src/user_rtc.c:30:19:USER_RTC_SetTime	40	static
-../Lib/Src/user_rtc.c:63:12:USER_RTC_GetTime	32	static
-../Lib/Src/user_rtc.c:93:6:USER_RTC_Init	48	static
